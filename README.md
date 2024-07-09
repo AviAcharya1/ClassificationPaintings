@@ -198,11 +198,11 @@ The confusion matrix and accuracy/loss graphs can be found in the results direct
 
 ## Future Work
 
-1.Expand the dataset to include more diverse styles and periods of paintings.
-2.Implement multi-class classification to identify specific art styles or artists.
-3.Develop a mobile application for real-time classification using the device's camera.
-4.Explore other deep learning architectures like ResNet or EfficientNet for potential performance improvements.
-5.Implement explainable AI techniques to provide insights into the model's decision-making process.
+1. Expand the dataset to include more diverse styles and periods of paintings.
+2. Implement multi-class classification to identify specific art styles or artists.
+3. Develop a mobile application for real-time classification using the device's camera.
+4. Explore other deep learning architectures like ResNet or EfficientNet for potential performance improvements.
+5. Implement explainable AI techniques to provide insights into the model's decision-making process.
 
 ## Contributing
 
@@ -210,11 +210,11 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 Contributions to this project are welcome. Please follow these steps:
 
-1.Fork the repository
-2.Create a new branch (git checkout -b feature/AmazingFeature)
-3.Make your changes and commit them (git commit -m 'Add some AmazingFeature')
-4.Push to the branch (git push origin feature/AmazingFeature)
-5.Open a Pull Request
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/AmazingFeature)
+3. Make your changes and commit them (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 ## License
 
