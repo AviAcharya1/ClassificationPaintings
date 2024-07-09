@@ -158,7 +158,7 @@ The model successfully classified various paintings:
 
 - Water paintings were correctly identified
 
-![Screenshot](./asset/waterPaint.png) <br>
+![Screenshot](./asset/waterpaint.png) <br>
 
 ![Screenshot](./asset/waterpaint1.png) <br>
 
