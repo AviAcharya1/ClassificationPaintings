@@ -150,8 +150,18 @@ The project uses a Convolutional Neural Network (CNN) with the VGGNet19 architec
 The model successfully classified various paintings:
 
 - Oil paintings were correctly identified
+
+![Screenshot](./asset/oilpaint.png) <br>
+
+![Screenshot](./asset/oilPaint1.png) <br>
+
+
 - Water paintings were correctly identified
-- Mixed results were observed in some cases
+
+![Screenshot](./asset/waterPaint.png) <br>
+
+![Screenshot](./asset/waterpaint1.png) <br>
+
 
 ### Feature Maps
 
@@ -161,7 +171,13 @@ The project includes visualizations of extracted feature maps from different lay
 
 - **Confusion Matrix**: A confusion matrix is provided, showing the model's classification performance across different categories.
 
+![Screenshot](./asset/confusionMatrix.png) <br>
+
+
 - **Loss and Accuracy Graphs**: The project includes graphs depicting the loss and accuracy trends over epochs during training.
+
+![Screenshot](./asset/loss.png) <br>
+
 
 ## Model Evaluation
 
@@ -172,7 +188,6 @@ The model's performance was evaluated using the following metrics:
 - Recall
 - F1-score
 
-(Note: Add specific values for these metrics if available)
 
 ## Visualizations
 
